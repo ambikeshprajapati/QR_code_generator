@@ -1,0 +1,2 @@
+import playsound
+playsound("C:\\Users\\ashwa\\Desktop\\Python\\Notes\\1. Chapter 1\\play.mp3")
